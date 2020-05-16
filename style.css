@@ -1,0 +1,48 @@
+h1 {
+    color: #FFFFFF
+}
+
+
+
+.header {
+
+    background-color: #800080;
+
+    border: solid;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #4B0082;
+
+}
+
+p,
+h2 {
+    text-align: center;
+    color: purple;
+
+
+}
+
+body
+{
+ background-color: #FFD700;
+
+}
+a
+{
+
+color: #FFFFFF;
+}
